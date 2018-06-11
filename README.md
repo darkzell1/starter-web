@@ -13,4 +13,7 @@ Sample website with plenty of files for demos.
 
 ## Deployment
 
+Some text here
+deployment to any web server
+
 ## How to Contribute
