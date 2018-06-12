@@ -17,3 +17,7 @@ Some text here
 deployment to any web server
 
 ## How to Contribute
+
+## Copyright
+
+2014. Git training
