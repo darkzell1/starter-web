@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work and showing how it all works together
+This repository is for showing how Git and GitHub work and showing how it all works together. Adding a line to the file rebase example
 
 ## Introduction
 
