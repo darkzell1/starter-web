@@ -22,4 +22,4 @@ Please fork thisd repo and then issue pull request
 
 ## Copyright
 
-2014. Git training
+2014. Git training. All rights reserrved
